@@ -1,0 +1,47 @@
+/* Colors */
+/* Accent */
+.accent {
+    color: #FF6B74;
+}
+.accent-bg {
+    background-color: #FF6B74;
+}
+.accent-border {
+    border-color: #FF6B74;
+}
+
+/* Primary */
+.primary {
+    color: #202A3A;
+}
+.primary-bg {
+    background-color: #202A3A;
+}
+.primary-border {
+    border-color: #202A3A;
+}
+
+/* Light */
+.light {
+    color: #EDE2E1;
+}
+.light-bg {
+    background-color: #EDE2E1;
+}
+.light-border {
+    border-color: #EDE2E1;
+}
+
+h1 {
+    color: #FF6B74;
+}
+h2, h3, h4, h5, h6 {
+    color: #202A3A;
+}
+
+/* Main Logo */
+.avatar img {
+    width: 20rem;
+    height: auto;
+    border-radius: 0%;
+}
