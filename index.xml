@@ -6,10 +6,21 @@
     <description>Recent content on Type Phase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jan 2020 13:30:22 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2020 20:30:22 -0600</lastBuildDate>
     
 	<atom:link href="http://amirkurtovic.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 Project: Building a depth sensing vision system from scratch</title>
+      <link>http://amirkurtovic.com/posts/building-depth-sensing-vision-system/</link>
+      <pubDate>Mon, 20 Jan 2020 20:30:22 -0600</pubDate>
+      
+      <guid>http://amirkurtovic.com/posts/building-depth-sensing-vision-system/</guid>
+      <description>I&#39;m starting out 2020 with a plan to be a little more rigorous about how I approach my side projects. That includes publicly writing about the details of what I&#39;m working on to both share what I&#39;ve learned and also to hold myself somewhat accountable.
+With that being said, some of my general goals for 2020 include:
+ Getting more experience with computer vision applications to balance my machine learning knowledge, which up to this point has mostly focused on natural language applications Gaining better understanding of the process involved in building custom electronics and hardware Re-visiting a failed side project from 2018 (more on that below)  My 2020 project is to build a cheap camera-based depth sensing system that can create detailed 3D point clouds, accurately measure distance, detect motion and do simple object identification and classification.</description>
+    </item>
     
     <item>
       <title>About Me</title>
@@ -18,15 +29,6 @@
       
       <guid>http://amirkurtovic.com/about/</guid>
       <description>Hello, World! My name is Amir Kurtovic and I am a:  Former: journalist Current: software developer  This blog is called Type Phase because:  When you are solving a problem or working on something creative, most of the magic happens when you are forced to sit down and type. Writing (code or words)  The purpose of this blog is to:  Write about stuff that I&#39;m working on and/or interested in ?</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://amirkurtovic.com/posts/my-first-post/</link>
-      <pubDate>Thu, 02 Jan 2020 13:30:22 -0600</pubDate>
-      
-      <guid>http://amirkurtovic.com/posts/my-first-post/</guid>
-      <description></description>
     </item>
     
   </channel>
