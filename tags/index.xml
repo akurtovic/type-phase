@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Type Phase</title>
-    <link>http://amirkurtovic.com/tags/</link>
+    <link>http://www.amirkurtovic.com/tags/</link>
     <description>Recent content in Tags on Type Phase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 05 Feb 2020 11:18:31 -0600</lastBuildDate>
     
-	<atom:link href="http://amirkurtovic.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.amirkurtovic.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>essays</title>
-      <link>http://amirkurtovic.com/tags/essays/</link>
+      <link>http://www.amirkurtovic.com/tags/essays/</link>
       <pubDate>Wed, 05 Feb 2020 11:18:31 -0600</pubDate>
       
-      <guid>http://amirkurtovic.com/tags/essays/</guid>
+      <guid>http://www.amirkurtovic.com/tags/essays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>learning</title>
-      <link>http://amirkurtovic.com/tags/learning/</link>
+      <link>http://www.amirkurtovic.com/tags/learning/</link>
       <pubDate>Wed, 05 Feb 2020 11:18:31 -0600</pubDate>
       
-      <guid>http://amirkurtovic.com/tags/learning/</guid>
+      <guid>http://www.amirkurtovic.com/tags/learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>http://amirkurtovic.com/tags/projects/</link>
+      <link>http://www.amirkurtovic.com/tags/projects/</link>
       <pubDate>Mon, 20 Jan 2020 20:30:22 -0600</pubDate>
       
-      <guid>http://amirkurtovic.com/tags/projects/</guid>
+      <guid>http://www.amirkurtovic.com/tags/projects/</guid>
       <description></description>
     </item>
     

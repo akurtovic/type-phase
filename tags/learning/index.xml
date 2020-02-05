@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>learning on Type Phase</title>
-    <link>http://amirkurtovic.com/tags/learning/</link>
+    <link>http://www.amirkurtovic.com/tags/learning/</link>
     <description>Recent content in learning on Type Phase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 05 Feb 2020 11:18:31 -0600</lastBuildDate>
     
-	<atom:link href="http://amirkurtovic.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.amirkurtovic.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>There is no magic, and you should explicitly acknowledge the fact</title>
-      <link>http://amirkurtovic.com/posts/on-the-lack-of-magic/</link>
+      <link>http://www.amirkurtovic.com/posts/on-the-lack-of-magic/</link>
       <pubDate>Wed, 05 Feb 2020 11:18:31 -0600</pubDate>
       
-      <guid>http://amirkurtovic.com/posts/on-the-lack-of-magic/</guid>
+      <guid>http://www.amirkurtovic.com/posts/on-the-lack-of-magic/</guid>
       <description>Technology is the application of scientific knowledge to produce practical results. Magic is the use of mysterious or mystical forces to achieve supernatural results. In other words, they are opposites.
 Yet too often in common parlance, we conflate the two. Apps promise to wow us with &amp;ldquo;magical&amp;rdquo; user experiences. Pundits talk about algorithms wielded like &amp;ldquo;magic spells&amp;rdquo; by modern-day wizards, often to much financial benefit. AI startups promise machine learning models that give &amp;ldquo;magical insights&amp;rdquo; into the inner workings of your company.</description>
     </item>
