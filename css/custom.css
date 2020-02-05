@@ -48,6 +48,59 @@ h2, h3, h4, h5, h6 {
     border-radius: 0%;
 }
 
+/* Pull Quote */
+article blockquote {
+  border-left: 4px solid #FF6B74;
+  line-height: 3rem;
+  font-size: 1.7rem;
+  margin-block-start: 2em;
+  margin-block-end: 2em;
+  margin-inline-start: 50px;
+  margin-inline-end: 50px;
+}
+
+article blockquote p strong {
+  display: block;
+  text-align: end;
+}
+
+/* Inline Code Tag */
+article code {
+  color: #202A3A;
+  padding: 0.3rem 0.6rem;
+  border-radius: 3px;
+}
+
+
+/* Table */
+article table {
+  border: 2px solid #202A3A;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+article table td, article table th {
+  border: 1px solid #EFEFEF;
+  padding: 6px 6px;
+}
+article table tbody td {
+  font-size: 14px;
+  color: #333333;
+}
+article table tr:nth-child(even) {
+  background: #89B4F9;
+}
+article table thead {
+  background: #202A3A;
+}
+article table thead th {
+  font-size: 18px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+
 /* Sharing Section */
 .resp-sharing-button__link,
 .resp-sharing-button__icon {

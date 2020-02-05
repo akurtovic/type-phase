@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Type Phase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jan 2020 20:30:22 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 11:18:31 -0600</lastBuildDate>
     
 	<atom:link href="http://amirkurtovic.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>essays</title>
+      <link>http://amirkurtovic.com/tags/essays/</link>
+      <pubDate>Wed, 05 Feb 2020 11:18:31 -0600</pubDate>
+      
+      <guid>http://amirkurtovic.com/tags/essays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>http://amirkurtovic.com/tags/learning/</link>
+      <pubDate>Wed, 05 Feb 2020 11:18:31 -0600</pubDate>
+      
+      <guid>http://amirkurtovic.com/tags/learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>projects</title>
