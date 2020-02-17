@@ -6,10 +6,20 @@
     <description>Recent content in essays on Type Phase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Feb 2020 11:18:31 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2020 16:18:31 -0600</lastBuildDate>
     
 	<atom:link href="https://www.amirkurtovic.com/tags/essays/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to learn and master complex concepts</title>
+      <link>https://www.amirkurtovic.com/posts/how-to-learn-complex-concepts/</link>
+      <pubDate>Mon, 17 Feb 2020 16:18:31 -0600</pubDate>
+      
+      <guid>https://www.amirkurtovic.com/posts/how-to-learn-complex-concepts/</guid>
+      <description>In a previous post I wrote about the power of explicitly stating the obvious fact that there is no magic. The idea being that, once you convince yourself of this, there is nothing stopping you from learning and understanding what previously seemed magical.
+If you were, for example, trying to reverse engineer a technology or learn a new scientific or engineering discipline, this exercise can quickly give you the positive affirmation you need to get started.</description>
+    </item>
     
     <item>
       <title>There is no magic, and you should explicitly acknowledge the fact</title>
